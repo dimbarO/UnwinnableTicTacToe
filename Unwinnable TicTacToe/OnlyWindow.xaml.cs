@@ -80,7 +80,7 @@ namespace Unwinnable_TicTacToe
 
             isPlayerTurn = true;
 
-            //add MinMax algorithm to work and then check game for end
+            //add MinMax algorithm to work and then check game for end 
 
         }
 
